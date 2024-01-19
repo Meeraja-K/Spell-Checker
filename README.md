@@ -1,6 +1,6 @@
 # Spell-Checker
 
-This C program implements a spell-checking application that reads words, meanings, and grammars from a CSV file, builds a balanced binary search tree (BST) with case-insensitive insertion, allows the user to check the spelling of a sentence, and updates the CSV file with any new words added during the spell-checking process.
+This C program implements a spell-checking application that reads words, meanings, and grammar from a CSV file, builds a balanced binary search tree (BST) with case-insensitive insertion, allows the user to check the spelling of a sentence, and updates the CSV file with any new words added during the spell-checking process.
 
 Data Structures:
 
@@ -29,6 +29,6 @@ Functions:
 
 
 Commands:
-      gcc -c spell_checker.c
-      gcc -o spell_checker spell_checker.o
-      spell_checker
+- `gcc -c spell_checker.c`
+- `gcc -o spell_checker spell_checker.o`
+- `spell_checker`
