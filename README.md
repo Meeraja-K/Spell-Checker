@@ -29,6 +29,6 @@ Functions:
 
 
 Commands:
-      gcc -c spell_checker.c
-      gcc -o spell_checker spell_checker.o
-      spell_checker
+      'gcc -c spell_checker.c'
+      'gcc -o spell_checker spell_checker.o'
+      'spell_checker'
